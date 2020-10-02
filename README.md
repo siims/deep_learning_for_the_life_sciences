@@ -12,3 +12,7 @@ And activate pre-commit hook:
 ```bash
 pre-commit install
 ```
+
+### Notebooks
+
+[![Open protein binding notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/siims/deep_learning_for_the_life_sciences/blob/master/ch5_protein_binding/experimenting_with_different_models_s.ipynb)
